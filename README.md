@@ -6,7 +6,7 @@
 - I’m looking to collaborate or work.
 <br/>
 
-![Akmal's github stats](https://github-readme-stats.vercel.app/api?username=featriadi&count_private=true&show_icons=true&theme=tokyonight)
+![Akmal's github stats](https://github-readme-stats.vercel.app/api?username=akmalseferagic&count_private=true&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akmalseferagic&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
