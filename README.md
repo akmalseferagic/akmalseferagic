@@ -2,7 +2,8 @@
 
 ### Hello! My name is Mohammad Akmaluddin Novianto. 
 - I've completed my Bachelor Degree in Computer Science.
-- I’m currently learning backend development (Java Spring and GoLang).
+- I’m currently learning some programming language.
+- 🌱 I’m currently learning Java (SpringBoot), GoLang, and JavaScript.
 - I’m looking to collaborate or work.
 <br/>
 
